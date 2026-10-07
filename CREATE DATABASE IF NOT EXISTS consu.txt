@@ -1,4 +1,7 @@
+
 CREATE DATABASE IF NOT EXISTS consultorio_db;
+
+
 USE nutri_db;
 
 DROP TABLE IF EXISTS pacientes;
